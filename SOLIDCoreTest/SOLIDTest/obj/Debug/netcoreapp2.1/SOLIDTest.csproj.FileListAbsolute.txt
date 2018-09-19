@@ -1,0 +1,14 @@
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\bin\Debug\netcoreapp2.1\SOLIDTest.deps.json
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\bin\Debug\netcoreapp2.1\SOLIDTest.runtimeconfig.json
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\bin\Debug\netcoreapp2.1\SOLIDTest.runtimeconfig.dev.json
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\bin\Debug\netcoreapp2.1\SOLIDTest.dll
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\bin\Debug\netcoreapp2.1\SOLIDTest.pdb
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.csprojAssemblyReference.cache
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.csproj.CoreCompileInputs.cache
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.RazorAssemblyInfo.cache
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.RazorAssemblyInfo.cs
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.AssemblyInfoInputs.cache
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.AssemblyInfo.cs
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.RazorTargetAssemblyInfo.cache
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.dll
+f:\CodeGames\SOLIDCoreTest\SOLIDTest\obj\Debug\netcoreapp2.1\SOLIDTest.pdb
